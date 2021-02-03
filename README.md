@@ -1,7 +1,5 @@
 ![alt text](https://i.imgur.com/JeStMOG.png)
 
-# Bomb Tag
-
 Bomb Tag is a game made by four 1st year students under my direction. The goal of the project was to allow these 4 beginners students who mostly never had coded before (nor used Unity) to discover how a game is made. With this idea in mind, I tried to direct them the best I could but I didn't take too much part in the production process. Thanks to this methodology they were able to acquire a good amount of knowledge by resolving issues by themselves and by learning from their mistakes.
 The result is this game, is of course still bugged and incomplete, but it's also a good playable prototype that they can be proud of.
 

@@ -25,6 +25,9 @@ Flying boots : You run faster.
 ## Try the game
 
 To try the game, download the projet and launch Tag_Bomb.exe in the build folder.
+
 🎮 Playable up to 4 players, to join, just press any button on any controller plugged to the computer. 
+
 ⚠️ The sound of the bomb can be high, adviced to lower the volume.
+
 ⚠️ Bear traps are kinda bugged, you can happen to be stuck. BombTime unstucks you.

@@ -17,10 +17,10 @@ At the end of a timer, the bomb explode and kills the owner and all nearby playe
 
 📦 Items are present on the map to help you during the game :
 
-Shield : Protects you from the negative effects, you can't recieve the bomb if you're shielded !
-Bear trap : Stop the player from moving.
-Magnet : Attract the pieces to you.
-Flying boots : You run faster.
+Shield : Protects you from the negative effects, you can't recieve the bomb if you're shielded !  
+Bear trap : Stop the player from moving.  
+Magnet : Attract the pieces to you.  
+Flying boots : You run faster.  
 
 ## Try the game
 
